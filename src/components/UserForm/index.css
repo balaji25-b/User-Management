@@ -2,12 +2,22 @@
   margin: 16px 0;
   display: flex;
   gap: 12px;
+  flex-direction: column;
 }
+
 .user-form input {
   padding: 7px;
   font-size: 1em;
+  margin-right: 8px;
 }
 .user-form button {
   padding: 7px 14px;
   font-size: 1em;
+}
+
+.error {
+  color: #d12;
+  font-size: 0.9em;
+  display: block;
+  margin-top: 2px;
 }
