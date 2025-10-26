@@ -1,0 +1,13 @@
+.user-form {
+  margin: 16px 0;
+  display: flex;
+  gap: 12px;
+}
+.user-form input {
+  padding: 7px;
+  font-size: 1em;
+}
+.user-form button {
+  padding: 7px 14px;
+  font-size: 1em;
+}

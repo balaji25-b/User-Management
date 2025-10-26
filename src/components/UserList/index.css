@@ -1,0 +1,15 @@
+.user-list {
+  margin: 16px;
+}
+.user-list input {
+  margin-bottom: 12px;
+  padding: 6px;
+}
+.user-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.user-list th, .user-list td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
